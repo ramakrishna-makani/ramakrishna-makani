@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramakrishna-makani
+- 👋 Hi, I’m Ramakrishna Makani from India and living in Germany .
 - 👀 I’m interested in Automation and Embedded Systems.
 - 🌱 I’m currently working on Pub/Sub over OPC-UA for Industrial Communication.
 - 💞️ I’m looking to collaborate on projects relating to IIoT, Autonomous Systems, Robotics.
